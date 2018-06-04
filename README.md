@@ -10,7 +10,7 @@ you can install the library by cloning the repository and installing it with
 pip install .
 ```
 
-Be sure to check the environment.txt with the version requirements.
+Be sure to check the requirements.txt with the version requirements.
 
 You can the find experiments in the experiments folder.
 Specifically, there are:
