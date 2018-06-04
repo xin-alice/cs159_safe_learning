@@ -1,0 +1,12 @@
+The version we used:
+
+python: 3.6.4
+gpflow: Version: 0.5
+tensorflow: Version: 1.8.0
+cvxpy: Version: 1.0.3
+
+Make sure:
+gpflow: Version: 0.5
+tensorflow>=1.0.0
+cvxpy>= 1.0.0
+

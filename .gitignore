@@ -1,0 +1,12 @@
+*.pyc
+.idea
+.ipynb_checkpoints
+htmlcov
+.coverage
+.cache
+safe_learning.egg-info
+__pycache__
+docs/safe_learning.*
+docs/_build
+*.swp
+
